@@ -1,7 +1,7 @@
-киви, бананы, яблоки, груши, абрикос, айва, апельсин, арбуз, банан, виноград, гранат, грейпфрукт, груша, 
-гуава, дыня, инжир, канталупа, карамбола, киви, бана, лимон, манго, марания, мушмула, пепино, персик, 
-питайя, помело, яблоко, вино, пиво, вино, физались, финик, хурма, творог, хлеб, сыр, яблоко, пиво, вино, сок, огурцы, 
-помидоры, Дункельвайцендоппельбок, перец, морковь, тыква, пиво, кабачки, баклажаны, цуккини, капуста, брокколи, лук, хрен, редис, брюква, 
-репа, тыква, помидоры, морковь, сыр, чеснок, молоко, ряженка, мясо, колбаса, рыба, яйцо, молоко, хлеб, крупа, 
-макароны, бобы, пиво, орехи, грибы, ягоды, вино, пиво, коньяк, водка, пиво, джин, ликёр, бренди, ром, виски, джин,
-самбука, тоник, водка, сок, газировка, хреновуха
+kiwi, bananas, apples, pears, apricot, quince, orange, watermelon, banana, grapes, pomegranate, grapefruit, pear, 
+guava, melon, figs, cantaloupe, carambola, kiwi, bana, lemon, mango, marania, medlar, pepino, peach,
+pitaya, pomelo, apple, wine, beer, wine, physalis, dates, persimmon, cottage cheese, bread, cheese, apple, beer, wine, juice, cucumbers,
+tomatoes, Dunkelweizendoppelbok, peppers, carrots, pumpkin, beer, zucchini, eggplant, zucchini, cabbage, broccoli, onion, horseradish, radish, rutabaga,
+turnip, pumpkin, tomatoes, carrots, cheese, garlic, milk, fermented baked milk, meat, sausage, fish, egg, milk, bread, cereals, 
+pasta, beans, beer, nuts, mushrooms, berries, wine, beer, cognac, vodka, beer, gin, liqueur, brandy, rum, whiskey, gin,
+sambuca, tonic, vodka, juice, soda, horseradish
